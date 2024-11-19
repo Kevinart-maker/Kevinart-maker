@@ -22,10 +22,7 @@
 
 [![<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firefox/firefox-original.svg" style="padding-right:10px;" />]](https://niveksti.vercel.app)
 &nbsp;&nbsp;
-[![
-  <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg" style="padding-right:10px;" />
-  
-          ]](https://twitter.com/odeyemikevin)
+[![<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg" style="padding-right:10px;" />]](https://twitter.com/odeyemikevin)
 &nbsp;&nbsp;
 [![<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" style="padding-right:10px;" />](./img/linkedin-light.svg)](https://linkedin.com/in/kevinodeyemi)
 &nbsp;&nbsp;
