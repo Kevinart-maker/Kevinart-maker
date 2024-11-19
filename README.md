@@ -2,7 +2,7 @@
 
 # Hi there, I'm Kevin a frontend developer - aka [kev][twitter] 👋 
 
-[![Website](https://img.shields.io/website?label=Nivekti.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://niveksti.vercel.app)
+[![Website](https://img.shields.io/website?label=Niveksti.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://niveksti.vercel.app)
 [![Twitter Follow](https://img.shields.io/twitter/follow/OdeyemiKevin?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/odeyemiKevin)
 
 <!-- [![Visual Studio Marketplace Rating (Stars)](https://img.shields.io/visual-studio-marketplace/stars/codestackr.codestackr-theme?label=codeSTACKr%20VS%20Code%20Theme&logo=visualstudiocode&logoColor=ff652f&style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=codestackr.codestackr-theme)
