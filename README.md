@@ -20,19 +20,17 @@
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://niveksti.vercel.app)
-[![website](./img/globe-dark.svg)](https://niveksti.vercel.app)
+[![https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firefox/firefox-original.svg]](https://niveksti.vercel.app)
 &nbsp;&nbsp;
 [![
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg" />
+  <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg" style="padding-right:10px;" />
           ]](https://twitter.com/odeyemikevin)
-[![website](./img/twitter-dark.svg)](https://twitter.com/odeyemikevin)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/kevinodeyemi)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/kevinodeyemi)
+[!["https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg](./img/linkedin-light.svg)](https://linkedin.com/in/kevinodeyemi)
+[![website]](https://linkedin.com/in/kevinodeyemi)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/niveksti_)
-[![website](./img/instagram-dark.svg)](https://instagram.com/niveksti_)
+[![website](/instagram-light.svg)](https://instagram.com/niveksti_)
+[![website](/instagram-dark.svg)](https://instagram.com/niveksti_)
 
 
 ### Languages and Tools:
