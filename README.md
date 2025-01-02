@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://i.ibb.co/Y3k8bHL/twitter-banner.png" width="100%" /> 
+</p>
+
 ## Hi there 👋
 
 # Hi there, I'm Kevin a frontend developer - aka [kev][twitter] 👋 
