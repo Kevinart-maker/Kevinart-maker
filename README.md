@@ -4,7 +4,7 @@
 
 ## Hi there 👋
 
-# Hi there, I'm Kevin a frontend developer - aka [kev][twitter] 👋 
+# Hi there, I'm Kevin a software engineer - aka [kev][twitter] 👋 
 
 [![Website](https://img.shields.io/website?label=Niveksti.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://niveksti.vercel.app)
 [![Twitter Follow](https://img.shields.io/twitter/follow/OdeyemiKevin?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/odeyemiKevin)
@@ -16,22 +16,17 @@
 ## I'm a human and a son!!
 
 <!-- - 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]! -->
-- 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2025 Goals: Learn more about mobile development and web3
+- 🥅 2025 Goals: Lean more towards mobile development and web3
 - ⚡ Fun fact: I love to play football and watch movies
 - 😻 Check out the portfolio site I created: [Niveksti](https://niveksti.vercel.app)
 
 ### Connect with me:
 
-[![<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firefox/firefox-original.svg" style="padding-right:10px;" />]](https://niveksti.vercel.app)
 &nbsp;&nbsp;
 [![<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg" style="padding-right:10px;" />]](https://twitter.com/odeyemikevin)
 &nbsp;&nbsp;
-[![<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" style="padding-right:10px;" />]](https://linkedin.com/in/kevinodeyemi)
-&nbsp;&nbsp;
 [![website](/instagram-light.svg)](https://instagram.com/niveksti_)
-[![website](/instagram-dark.svg)](https://instagram.com/niveksti_)
 
 
 ### Languages and Tools:
@@ -54,16 +49,6 @@
 <br />
 
 ---
-
-### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Next.js 14: No New APIs &amp; Breaking Changes](https://dev.to/mongodb/nextjs-14-no-new-apis-breaking-changes-3nh3)
-- [Render ATL 2023 Trip Report](https://dev.to/codestackr/render-atl-2023-trip-report-mp4)
-- [Web Development Roadmap 2023](https://dev.to/codestackr/web-development-roadmap-2023-5beo)
-- [Getting Started with MongoDB &amp; Mongoose](https://dev.to/codestackr/getting-started-with-mongodb-mongoose-2h6a)
-- [How To Pass Application Tracking Systems &lpar;ATS&rpar; &amp; Get Interviews - Resume Tips for Software Developer](https://dev.to/codestackr/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo)
-<!-- BLOG-POST-LIST:END -->
 
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
