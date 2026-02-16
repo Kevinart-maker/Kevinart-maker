@@ -74,3 +74,6 @@
 [twitter]: https://x.com/odeyemikevin
 [instagram]: https://instagram.com/niveksti_
 [linkedin]: https://linkedin.com/in/kevinodeyemi
+
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kevinart-maker&theme=neon-dark)](https://git.io/streak-stats)
